@@ -1,5 +1,5 @@
 ## Lumen Custom Passport Configuration
-> Laravel Lumen Configuration When your password is stored in a different table and with different column name name
+> Laravel Lumen Configuration When your password is stored in a different table and with different column name
 
 `User.php`
 ```
