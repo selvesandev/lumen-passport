@@ -21,3 +21,6 @@
         return (Hash::check($password, $userPassword));
     }
 ```
+## HTTP response status codes DOCUMENTATION
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
